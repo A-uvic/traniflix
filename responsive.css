@@ -1,0 +1,16 @@
+@media screen and (max-width:1174px) {
+    header .container {
+        display: flex;
+        flex-direction: column;
+    }
+    main .container2 {
+        font-size: 3.0rem;
+        top: .1rem;
+    }
+    main .container2 button {
+        width: 15.0rem;
+        height: 5.0rem;
+        margin-top: 8.0rem;
+        margin-left: 3.0rem;
+    }
+}
