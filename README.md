@@ -15,5 +15,6 @@ Desafio do bootcamp da *impulso* pela *Digital Inovation One*, onde o objetivo e
 
 
 Você pode acessar a demonstração: [Aqui](https://a-uvic.github.io/traniflix/)
+<br>
 Você pode assistir o vídeo no linkedin: [Aqui](https://www.linkedin.com/posts/victor-martins-t_dio-cloneflix-bootcamp-activity-6854627049559113729-iGjX)
 
